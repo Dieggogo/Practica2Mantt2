@@ -19,7 +19,7 @@ while not salir:
         salir = True
 
 
-
+# Comentario asi bonito por que me da pereza programar wow
 
 
 
