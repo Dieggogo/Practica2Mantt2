@@ -12,14 +12,4 @@ for i in Frase:
         cont += 1
 
 print("La frase '" + Frase + "' tiene la letra '" + Letra + "' " + str(cont) + " veces.")
-
-def CuentaFrase(frase, Letra):
-    cont = 0
-    for i in frase:
-        if i == Letra:
-            cont += 1
-    return cont
-    print("La frase '" + Frase + "' tiene la letra '" + Letra + "' " + str(cont) + " veces.")
-
-
-CuentaFrase(Frase, Letra)
+# Una prueba muy bonita, wow increible 
