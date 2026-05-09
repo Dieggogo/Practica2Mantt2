@@ -13,3 +13,4 @@ for i in Frase:
 
 print("La frase '" + Frase + "' tiene la letra '" + Letra + "' " + str(cont) + " veces.")
 # Una prueba muy bonita, wow increible 
+# Una prueba pero para la 6 practica que es el git pull y push woowowowowow
